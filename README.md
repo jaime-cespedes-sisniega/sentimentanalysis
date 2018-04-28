@@ -19,6 +19,10 @@ nltk.download()
 
 ## Running
 
+### Download dataset
+
+Download dataset from [Kaggle]https://www.kaggle.com/kazanova/sentiment140/data
+
 ### Create model
 
 Model and data options used can be modified from within lstm.py.
