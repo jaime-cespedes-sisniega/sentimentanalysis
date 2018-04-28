@@ -21,7 +21,7 @@ nltk.download()
 
 ### Download dataset
 
-Download dataset from [Kaggle]https://www.kaggle.com/kazanova/sentiment140/data
+Download dataset from [Kaggle](https://www.kaggle.com/kazanova/sentiment140/data)
 
 ### Create model
 
