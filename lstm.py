@@ -3,11 +3,9 @@ from keras.models import load_model
 from keras.layers import Dense, Embedding, LSTM
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
-from keras import regularizers
 from sklearn.utils import shuffle
 from sklearn.model_selection import train_test_split
 from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
 from preprocess_tweet import preprocess_tweet
 import pandas as pd
 import re
