@@ -48,7 +48,9 @@ Edit credentials.json with the tokens obtained in [Twitter Apps](https://apps.tw
 
 Sentiment score can be obtained by following the next structure 'sentiment_analysis.py "Query" number_tweets'. Example:
 
+```
 python3 sentiment_analysis.py "Deep Learning" 1000
+```
 
 ## Authors
 
